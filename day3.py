@@ -20,5 +20,5 @@
 # finalResult=f"Your Name is {name} and age is {age}"
 # print(finalResult)
 thislist =["white","green","yellow"]
-# for a in thislist:
-print(thislist)
+for a in thislist:
+  print(a) 
