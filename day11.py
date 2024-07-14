@@ -4,10 +4,10 @@
 # secondnumber = input()
 # # print("enter any arithmatic operation")
 # print("perform any arithmatic operation")
-# arithmaticoperatiion = input()
-# inputlength3 = len(arithmaticoperatiion)
-# inputlength1= len(firstnumber)
-# inputlength2 = len(secondnumber)
+arithmaticoperatiion = input()
+inputlength3 = len(arithmaticoperatiion)
+inputlength1= len(firstnumber)
+inputlength2 = len(secondnumber)
 
 # if inputlength1==0 or inputlength2==0:
 #     print("please enter valid number")
